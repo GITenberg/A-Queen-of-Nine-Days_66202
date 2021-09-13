@@ -1,0 +1,25 @@
+_repo: A-Queen-of-Nine-Days_66202
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Kenyon, E. C. (Edith C.)
+    alias: Kenyon, Edith C.
+    gutenberg_agent_id: '45539'
+    url: http://www.gutenberg.org/2009/agents/45539
+creator:
+  author:
+    agent_name: Brown, Margaret Wright
+    gutenberg_agent_id: '39824'
+    url: http://www.gutenberg.org/2009/agents/39824
+description: ''
+gutenberg_issued: '2021-09-01'
+identifiers:
+  gutenberg: '66202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Queen of Nine Days
+url: http://www.gutenberg.org/ebooks/66202
